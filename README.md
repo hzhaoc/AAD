@@ -6,6 +6,8 @@
   - Feature Spearman Correlation<br />
   ![Correlation](/results/GP_feature_corr.png)
   - Evolationary Process<br />
-  ![evolution](/results/GP_evolution_1500gen.png)
-  - Best AUC: **0.1022**<br />
-  ![AUC](/results/GP_best_auc_1500gen.png)
+  ![evolution](/results/GP_evolution_50gen.png)
+  - train AUC: **0.1500**<br />
+  ![AUC](/results/GP_best_trainauc_50gen.png)
+  - validation AUC, vs. ML solution 0.0283:0.0815 <br />
+  ![AUC](/results/GP_best_validauc_50gen.png)
