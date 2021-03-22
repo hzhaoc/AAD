@@ -11,3 +11,5 @@
   ![AUC](/results/GP_best_trainauc_50gen.png)
   - validation AUC, vs. ML solution 0.1019:0.2379 <br />
   ![AUC](/results/GP_best_validauc_50gen.png)
+  - AUC of EMDAE DEAP vs DEAP vs ML <br />
+  ![AUC](/results/titanic_HOF_comparison_2021-03.png)
